@@ -5,6 +5,7 @@
 - Early-stage in development.
 
 ### Demo:
+https://github.com/user-attachments/assets/74c8de50-3f92-4b14-a329-a0e5f5cf2226
 
 ### Features:
 - [x] Able to parse neorg files and present it in a readable formatted document
